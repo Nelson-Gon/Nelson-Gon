@@ -19,4 +19,4 @@ Contributor to packages like [similiars](https://github.com/davidsjoberg/similia
 Thank you 🖤
 
 
-![Nelson-Gon: Github stats](https://github-readme-stats.vercel.app/api?username=nelson-gon&count_private=true&theme=dark)
+![Nelson-Gon: Github stats](https://github-readme-stats.vercel.app/api?username=nelson-gon&count_private=true)
