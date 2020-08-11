@@ -5,7 +5,7 @@
 
 - 🖤  Applying computational models to biomedical research. 
 
-- 👷 Currently working on [cytounet](https://github.com/Nelson-Gon/cytounet). ‍
+- 👷 Currently working on [cytounet](https://github.com/Nelson-Gon/cytounet).
 
 
  - 💻 Simplicity focused open source advocate. Author of several open source `R` and `python` [packages](https://nelson-gon.github.io/projects).
@@ -18,3 +18,5 @@ Contributor to packages like [similiars](https://github.com/davidsjoberg/similia
 
 Thank you 🖤
 
+
+![Nelson-Gon: Github stats](https://github-readme-stats.vercel.app/api?username=nelson-gon&count_private=true)
