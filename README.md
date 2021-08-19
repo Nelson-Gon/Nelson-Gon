@@ -10,9 +10,6 @@
 - 📫 Please contact me via Twitter at https://twitter.com/bionelsongon  
 
 
-If you would like to financially support the development of these projects, please feel free to [BuyMeACoffee](https://www.buymeacoffee.com/bionelsongon).
-
-
 Thank you 🖤
 
 Keep Building 🏗
