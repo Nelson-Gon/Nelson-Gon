@@ -21,5 +21,5 @@ Keep Building 🏗
 </a>
 
 
-**Feeling generous?** [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bionelsongon)
+If you would like to contribute to the development of this software, please feelfree to buy me a coffee. [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bionelsongon)
 
