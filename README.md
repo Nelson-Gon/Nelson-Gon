@@ -21,5 +21,3 @@ Keep Building 🏗
 </a>
 
 
-If you would like to support development of this software, please feel free to buy me a coffee. [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bionelsongon)
-
